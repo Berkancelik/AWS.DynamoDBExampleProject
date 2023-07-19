@@ -17,3 +17,4 @@ namespace AWS.DynamoDBExampleProject.Models
         [DynamoDBProperty("birth_date")]
         public DateTime? BirthDate { get; set; }
     }
+}
